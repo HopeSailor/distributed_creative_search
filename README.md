@@ -1,9 +1,5 @@
 # Distributed Creative Search on Digital Platforms
 
-Analysis code for the final panel of ten creators. **This is a code-only repository. No research data, ratings, videos, screenshots, embeddings, manuscript files or generated results are included.**
-
-The entry point is an analysis-ready, frozen input directory. The code does not discover creators, select a sample or download platform content. It does not regenerate multimodal features from raw videos. Existing event measurements and individual-period evidence classifications are supplied as inputs; collective positions and decompositions are rebuilt from video-level representations.
-
 ## Which script does what?
 
 | File | Responsibility | Local outputs |
