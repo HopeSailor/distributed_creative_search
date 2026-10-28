@@ -1,0 +1,21 @@
+# Install PyTorch with the CUDA wheel matching the machine before this file.
+numpy>=1.26,<2
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+opencv-python-headless>=4.10
+faster-whisper>=1.2
+sentence-transformers>=3.3
+open-clip-torch>=2.30
+transformers>=4.48
+librosa>=0.10.2
+soundfile>=0.12
+mediapipe==0.10.21
+easyocr>=1.7.2
+scenedetect[opencv]>=0.6.5
+tqdm>=4.67
+huggingface-hub>=0.27
+safetensors>=0.4
+
+torch>=2.5
+torchvision>=0.20
